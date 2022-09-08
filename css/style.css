@@ -1,11 +1,5 @@
-body {
-    background-color: aqua;
-}
-#Titulo-uno{background-color: brown;}
-#Titulo-dos{background-color: green;}
-.Titulo-tres{background-color: darkmagenta;}
+body { background-color: rebeccapurple;}
 
-h1 {
-    background-color: tomato;
-    color: white;
-}
+h1{ color: lime;}
+
+li{color: red;}
